@@ -1,7 +1,7 @@
 # ImbalancedPU
 Code for the paper named ["Positive-Unlabeled Learning from Imbalanced Data"](https://github.com/214159537/ImbalancedPU)[1] which has been accepted by IJCAI-21. In this paper, we propose a general learning objective for PU learning targeting specially at imbalanced data which named ImbalancedPU.
 
-```![framework](framework.png) 论文第一个图```
+![demo](data.png)
 
 ## Requirements
 * Pytorch 1.7
