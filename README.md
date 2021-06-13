@@ -37,7 +37,7 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 ## Average F1 score in 200 epochs
 | Name| Average F1 score |
-| ---- | ---- | ---- | 
-| ImbalancedSelfPU | xxxx | xxxx | 
-| ImbalancednnPU | xxxx | xxxx | 
+| ---- | ---- | 
+| ImbalancedSelfPU | xxxx | 
+| ImbalancednnPU | xxxx | 
 
