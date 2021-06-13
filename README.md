@@ -34,3 +34,9 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 ## Sample results as default setting we provided
 ```![training error](result/training_error.png "training error")替换```
+
+## The F1 score in last ten epochs
+| | F1 score |
+| ---- | ---- | 
+| Name | 93.87% | 89.68% | 
+
