@@ -1,7 +1,7 @@
 # ImbalancedPU
-Code for the paper named "Positive-Unlabeled Learning from Imbalanced Data"[1] which has been accepted by IJCAI-21
+Code for the paper named "Positive-Unlabeled Learning from Imbalanced Data"[1] which has been accepted by IJCAI-21. In this paper, we propose a general learning objective for PU learning targeting specially at imbalanced data which named ImbalancedPU.
 
-There are two folders named "ImbalancedSelfPU" and "ImbalancednnPU": 
+There are two folders named "ImbalancedSelfPU" and "ImbalancednnPU" which involve the methods that the paper compared: 
 
 ## ImbalancedSelfPU
 
