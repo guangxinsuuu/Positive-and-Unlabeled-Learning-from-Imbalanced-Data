@@ -37,7 +37,7 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 
 ## Sample results as default setting we provided
-```![training error](result/training_error.png "training error")替换```
+![label-airplane-f1](airplane.png)
 
 ## Average F1 score in 200 epochs
 | Name| Average F1 score |
