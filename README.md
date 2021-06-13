@@ -48,5 +48,6 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 [2] 
 
 [3] Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
+
 [4] Ryuichi Kiryo, Gang Niu, Marthinus Christoffel du Plessis, and Masashi Sugiyama. 
 "Positive-Unlabeled Learning with Non-Negative Risk Estimator." Advances in neural information processing systems. 2017.
