@@ -3,6 +3,15 @@ Code for the paper named "Positive-Unlabeled Learning from Imbalanced Data"[1] w
 
 ```![framework](framework.png) 论文第一个图```
 
+## Requirements
+* Pytorch 1.7
+* Python 3
+* CUDA 11.1
+
+## Preparing data
+* For ImbalancedSelfPU, you need to download CIFAR10 [3] and exact it into ```cifar/ ```.
+* Related blank folders also should be added as code shown.
+
 There are two folders named "ImbalancedSelfPU" and "ImbalancednnPU" which involve the methods that the paper compared: 
 
 ## ImbalancedSelfPU
@@ -25,14 +34,7 @@ ImbalancednnPU is developed based on the state-of-the-art method nnPU [4] . We u
 CIFAR10 [3] dataset is preprocessed in such a way that only one label is used as positive data and the remaining data are regarded as negative. 
 The default setting is 1000 P data and 50000 U data of CIFAR10, and the class prior is the ratio of P class data in U data.
 
-## Requirements
-* Pytorch 1.7
-* Python 3
-* CUDA 11.1
 
-## Preparing data
-* For ImbalancedSelfPU, you need to download CIFAR10 [3] and exact it into ```cifar/ ```.
-* Related blank folders also should be added as code shown.
 
 ## Sample results as default setting we provided
 ```![training error](result/training_error.png "training error")替换```
