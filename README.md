@@ -44,6 +44,7 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 ## Reference
 
 [1] 需要重新统一格式
+
 [2] 
 
 [3] Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
