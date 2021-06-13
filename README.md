@@ -23,3 +23,7 @@ ImbalancednnPU is developed based on the state-of-the-art method nnPU [4] . We u
 CIFAR10 [3] dataset is preprocessed in such a way that only one label is used as positive data and the remaining data are regarded as negative. 
 The default setting is 1000 P data and 50000 U data of CIFAR10, and the class prior is the ratio of P class data in U data.
 
+## Requirements
+* Pytorch 1.7
+* Python 3
+* CUDA 11.1
