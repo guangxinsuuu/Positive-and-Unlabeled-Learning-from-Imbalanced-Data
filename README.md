@@ -1,7 +1,7 @@
 # ImbalancedPU
 Code for the paper named "Positive-Unlabeled Learning from Imbalanced Data"[1] which has been accepted by IJCAI-21
 
-
+There are two folders named "ImbalancedSelfPU" and "ImbalancednnPU": 
 
 * ```pu_loss.py``` has a chainer implementation of the risk estimator for non-negative PU (nnPU) learning and unbiased PU (uPU) learning. 
 * ```train.py``` is an example code of nnPU learning and uPU learning. 
