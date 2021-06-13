@@ -7,7 +7,7 @@ There are two folders named "ImbalancedSelfPU" and "ImbalancednnPU":
 
 This framework combines our proposed method named ImbalancedPU and the framework depends on the Self-PU [2] which uses the additional labeled data, in a meta-learning fashion and other “self”-oriented building blocks.
 
-* ```util.py``` The related ImbalancedPU loss functions are used here which are changed based on the Self-PU  [2] framework.
+* ```util.py``` The related ImbalancedPU loss functions are written here which are changed based on the Self-PU  [2] public code.
 
 * ```train_with_meta.py``` This is an example code of nnPU learning and uPU learning. 
 Dataset is CIFAR10 [3] preprocessed in such a way that artifacts form the P class and living things form the N class.
