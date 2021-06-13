@@ -27,3 +27,6 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 * Pytorch 1.7
 * Python 3
 * CUDA 11.1
+
+## Preparing data
+* For ImbalancedSelfPU, you need to download CIFAR10 [3] and exact it into '''cifar/''' .
