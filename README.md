@@ -30,3 +30,7 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 ## Preparing data
 * For ImbalancedSelfPU, you need to download CIFAR10 [3] and exact it into ```cifar/ ```.
+* Related blank folders also should be added as code shown.
+
+## Sample results as default setting we provided
+```![training error](result/training_error.png "training error")替换```
