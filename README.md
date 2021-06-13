@@ -47,11 +47,10 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 ## Reference
 
-[1] 需要重新统一格式
+[1] our paper
 
-[2] 
+[2] X. Chen et al., "Self-pu: Self boosted and calibrated positive-unlabeled training," in International Conference on Machine Learning, 2020: PMLR, pp. 1510-1519. 
 
 [3] Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
 
-[4] Ryuichi Kiryo, Gang Niu, Marthinus Christoffel du Plessis, and Masashi Sugiyama. 
-"Positive-Unlabeled Learning with Non-Negative Risk Estimator." Advances in neural information processing systems. 2017.
+[4] R. Kiryo, G. Niu, M. C. d. Plessis, and M. Sugiyama, "Positive-unlabeled learning with non-negative risk estimator," arXiv preprint arXiv:1703.00593, 2017.
