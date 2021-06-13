@@ -9,6 +9,6 @@ This framework combines our proposed method named ImbalancedPU and the framework
 
 * ```util.py``` The related ImbalancedPU loss functions are written here which are changed based on the Self-PU  [2] public code.
 
-* ```train_with_meta.py``` This is an example code of nnPU learning and uPU learning. 
-Dataset is CIFAR10 [3] preprocessed in such a way that artifacts form the P class and living things form the N class.
+* ```train_with_meta.py``` This is an example code of ImbalancedSelfPU. 
+CIFAR10 [3] dataset is preprocessed in such a way that only one label is used as positive data and the remaining data are regarded as negative. 
 The default setting is 1000 P data and 50000 U data of CIFAR10, and the class prior is the ratio of P class data in U data.
