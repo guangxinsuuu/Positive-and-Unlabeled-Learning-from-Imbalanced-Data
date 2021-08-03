@@ -7,6 +7,7 @@ Code for the paper named ["Positive-Unlabeled Learning from Imbalanced Data"](ht
 * Pytorch 1.7
 * Python 3
 * CUDA 11.1
+* Different environment setting may make very subtle difference
 
 ## Preparing data
 * For ImbalancedSelfPU, you need to download CIFAR10 [3] and exact it into ```cifar/ ```.
