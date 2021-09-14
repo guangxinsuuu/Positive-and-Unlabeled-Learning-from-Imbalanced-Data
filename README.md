@@ -1,5 +1,5 @@
 # ImbalancedPU
-Code for the paper named ["Positive-Unlabeled Learning from Imbalanced Data"](https://github.com/214159537/ImbalancedPU)[1] which has been accepted by IJCAI-21. In this paper, we propose a general learning objective for PU learning targeting specially at imbalanced data which named ImbalancedPU.
+Code for the paper named ["Positive-Unlabeled Learning from Imbalanced Data"](https://www.ijcai.org/proceedings/2021/412)[1] which has been accepted by IJCAI-21. In this paper, we propose a general learning objective for PU learning targeting specially at imbalanced data which named ImbalancedPU.
 
 ![demo](data.png)
 
@@ -48,7 +48,7 @@ The default setting is 1000 P data and 50000 U data of CIFAR10, and the class pr
 
 ## Reference
 
-[1] our paper
+[1] Positive-Unlabeled Learning from Imbalanced Data
 
 [2] X. Chen et al., "Self-pu: Self boosted and calibrated positive-unlabeled training," in International Conference on Machine Learning, 2020: PMLR, pp. 1510-1519. 
 
